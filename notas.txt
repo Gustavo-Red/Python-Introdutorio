@@ -1,0 +1,15 @@
+Ana, 8.5
+Bruno, 7.0
+Carla, 9.2
+Diego, 6.8
+Eva, 8.8
+Fernando, 9.0
+Guilherme, 7.0
+Higor, 6.0
+Iago, 5.5
+Jakeline, 8.0
+Kilian Mbappe, 6.5
+Lamine, 7.5
+Messi, 7.3
+Neymar Jr, 8.8
+Oscar, 7.7
