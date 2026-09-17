@@ -1,6 +1,6 @@
 # Python-Introdutório
 
-Repositório de estudos de Python, reunindo exercícios feitos na disciplina de Introdução à Programação (UFMT - Campus Universitário do Araguaia) e outros exercícios praticados por conta própria.
+Repositório de estudos de Python, reunindo exercícios feitos na disciplina de Programação de Computadores (UFMT - Campus Universitário do Araguaia) e outros exercícios praticados por conta própria.
 
 ## Conteúdo
 
@@ -159,4 +159,4 @@ Cada script pede as entradas necessárias via terminal (`input()`). Alguns exerc
 
 ## Contexto
 
-Repositório com exercícios acumulados ao longo da disciplina de Introdução à Programação (UFMT CUA) e estudos paralelos de Python, cobrindo desde a sintaxe básica até listas, tuplas, funções, recursividade e manipulação de arquivos.
+Repositório com exercícios acumulados ao longo da disciplina de Programação de Computadores (UFMT CUA) e estudos paralelos de Python, cobrindo desde a sintaxe básica até listas, tuplas, funções, recursividade e manipulação de arquivos.
